@@ -1,0 +1,1 @@
+msgbox "You writed nothing, please write a command at least" ,48+4096, "Command Missing"

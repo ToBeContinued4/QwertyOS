@@ -1,0 +1,23 @@
+QwertyOS Command List
+
+Note: All commands needs to be written in undercase
+
+1.- help
+
+This command shows this list
+
+2.- exit
+
+This command closes the program
+
+3.- themes
+
+This command opens a menu that you can change the console color
+
+4.- install
+
+This command enters into a install mode where you install the software you want for QwertyOS
+
+5.- install-list
+
+This command opens a window where you can see the software for QwertyOS you can install

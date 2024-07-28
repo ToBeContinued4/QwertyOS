@@ -1,0 +1,1 @@
+msgbox "You writed a command that not exist" ,48+4096, "Wrong Command"
