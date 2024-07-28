@@ -1,2 +1,6 @@
 # QwertyOS
-Operative System in python
+### Operative System in Python
+
+## Info
+This is not a real operative system, this is like a simulator, so don't take it too serious.
+###### Note: You must have installed python
