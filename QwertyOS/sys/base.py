@@ -1,7 +1,5 @@
 import os, time
 
-defaultRoute = os.system("%userprofile%\Documents")
-
 os.system("cls")
 
 def defaultIntro():
